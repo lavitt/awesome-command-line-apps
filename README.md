@@ -178,7 +178,7 @@ hundred percent to the NGO.
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature-rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
-- [ranger](http://ranger.nongnu.org/) - Minimalistic visual file manager featuring curses interface with vi key bindings.
+- [ranger](https://ranger.github.io/) - Minimalistic visual file manager featuring curses interface with vi key bindings.
 - [vifm](http://vifm.info) - ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 - [zfsnap](http://www.zfsnap.org/) - Rolling ZFS snapshots the easy way.
 
